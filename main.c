@@ -1,0 +1,9 @@
+#include<stdio.h>
+main()
+{
+	biggest2();
+	factor();
+	reverse();
+	factorial();
+	pallindrome();
+}
